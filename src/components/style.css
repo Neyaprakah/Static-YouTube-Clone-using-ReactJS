@@ -1,0 +1,60 @@
+/* Header */
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.menu div{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.logo{
+    margin-top: 10px;
+    display: flex;
+    height: 30px;
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+button{
+    border-radius: 10px;
+}
+
+/* Content */
+.content{
+    display: flex;
+    gap: 50px;
+}
+.c1{
+    margin-top: 10px;
+}
+.c1r1 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.c1r2 div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#video{
+    width: 420px;
+    box-shadow: 0px 0px 12px gray;
+}
+.c2{
+    margin-top: 20px;
+}
+.c2r2,.c2r3{
+    display: flex;
+    gap: 30px;
+    text-align: left;
+}
