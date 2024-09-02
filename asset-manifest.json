@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Static-YouTube-Clone-using-ReactJS/static/css/main.20fef662.css",
+    "main.js": "/Static-YouTube-Clone-using-ReactJS/static/js/main.2d9dc3c0.js",
+    "static/js/453.cf98d780.chunk.js": "/Static-YouTube-Clone-using-ReactJS/static/js/453.cf98d780.chunk.js",
+    "static/media/video5.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video5.99b19d1b5d87be0acdf9.png",
+    "static/media/video4.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video4.4d3447c4fb7ac8232128.png",
+    "static/media/video2.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video2.cfe18248d870ef4b8213.png",
+    "static/media/video6.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video6.401aca9f5d4910fda3a1.png",
+    "static/media/video1.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video1.22049cff61e08c72aedf.png",
+    "static/media/video3.png": "/Static-YouTube-Clone-using-ReactJS/static/media/video3.925bf6c0fe7b8a0210d5.png",
+    "index.html": "/Static-YouTube-Clone-using-ReactJS/index.html",
+    "main.20fef662.css.map": "/Static-YouTube-Clone-using-ReactJS/static/css/main.20fef662.css.map",
+    "main.2d9dc3c0.js.map": "/Static-YouTube-Clone-using-ReactJS/static/js/main.2d9dc3c0.js.map",
+    "453.cf98d780.chunk.js.map": "/Static-YouTube-Clone-using-ReactJS/static/js/453.cf98d780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20fef662.css",
+    "static/js/main.2d9dc3c0.js"
+  ]
+}
